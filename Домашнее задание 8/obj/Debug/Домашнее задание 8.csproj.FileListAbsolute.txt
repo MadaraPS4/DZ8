@@ -1,0 +1,5 @@
+c:\users\зейтынб\documents\visual studio 2017\Projects\Домашнее задание 8\Домашнее задание 8\bin\Debug\Домашнее задание 8.exe.config
+c:\users\зейтынб\documents\visual studio 2017\Projects\Домашнее задание 8\Домашнее задание 8\bin\Debug\Домашнее задание 8.exe
+c:\users\зейтынб\documents\visual studio 2017\Projects\Домашнее задание 8\Домашнее задание 8\bin\Debug\Домашнее задание 8.pdb
+c:\users\зейтынб\documents\visual studio 2017\Projects\Домашнее задание 8\Домашнее задание 8\obj\Debug\Домашнее задание 8.exe
+c:\users\зейтынб\documents\visual studio 2017\Projects\Домашнее задание 8\Домашнее задание 8\obj\Debug\Домашнее задание 8.pdb
